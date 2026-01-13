@@ -32,7 +32,7 @@ nfpms:
   - id: packages
     package_name: mb
     vendor: Tim
-    homepage: https://github.com/{{ .Env.GITHUB_USER }}/mb-cli
+    homepage: https://github.com/timappledotcom/mb-cli
     maintainer: Tim
     description: A pretty, simple, and quick CLI tool to post to Micro.blog
     license: MIT

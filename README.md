@@ -27,7 +27,7 @@ sudo pacman -U mb_*.pkg.tar.zst
 ### From Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mb-cli
+git clone https://github.com/timappledotcom/mb-cli
 cd mb-cli
 go install
 ```
