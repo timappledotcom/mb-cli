@@ -1,6 +1,6 @@
 # mb - Micro.blog Poster
 
-A pretty, simple, and quick command line tool to post to Micro.blog using Charm tools.
+A pretty, simple, and quick command line tool to post to Micro.blog using Charm tools. Note: This tool is currently supported on Linux only.
 
 ## Installation
 
